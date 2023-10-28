@@ -9,5 +9,7 @@ Mi experiencia profesional y académica se ha centrado en el manejo y análisis 
 **Algunos detalles sobre mí:**
 - 🌍 Estoy cursando el doctorado en Ciencias de la Ingeniería con mención en Informática en la USACH.
 - 🚀 Actualmente estoy investigando en temáticas relacionadas a Ciencia de Datos, Simulación Basada en Agentes y Metaheurísticas.
+- 💼 Trabajo como Analista SIG en CITIAPS.
+- 👨‍🏫 Profesor de Laboratorio de Geodemografía en la USACH.
 - 📊 Mi experiencia se basa en el análisis de información geoespacial para diversos fines.
 - 📩 Si deseas ponerte en contacto conmigo, no dudes en enviarme un correo a matias.escudero.b@usach.cl.
